@@ -22,6 +22,7 @@ import vn.edu.usth.testagain.database.SharedPrefManager;
 import vn.edu.usth.testagain.models.Flight;
 import vn.edu.usth.testagain.ultis.Hash;
 
+
 public class logInActivity extends AppCompatActivity {
 
     private static final String IS_LOGGED_IN = "IsLoggedIn";
