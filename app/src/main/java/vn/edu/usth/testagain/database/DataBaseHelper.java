@@ -368,6 +368,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
             cursor.close();
             return false;
         }
+
     }
     @SuppressLint("Range")
     public String getUserName(String email) {
